@@ -37,3 +37,10 @@ In some texts, Excess Kurtosis are referenced as kurtosis. You should really pay
 #### Kurtosis Implementation
 
 Now we are going to implement Kurtosis on a FPGA. It will be done by Vivado HLS.
+
+#### Run Sample
+Install Vivado HLS 2019.1
+Run Vivado HLS 2019.1 Command Prompt
+Go to your project folder with CD command
+Run vivado_hls -f run_hls.tcl
+Then yo can open the project with Vivado HLS 2019.1
